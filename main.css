@@ -1,1 +1,12 @@
 
+body {
+  font-size: 46px;
+  font-family: verdana;
+
+  background-color: #000000;
+}
+
+p {
+  padding-left: 40%;
+  color: #ffffff;
+}
