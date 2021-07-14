@@ -78,7 +78,7 @@ header a:hover {
 #showcase {
   min-height: 400px;
   background: url("https://upload.wikimedia.org/wikipedia/commons/6/62/Berkeley-San_Francisco-Oakland--Sunset-Panorama.jpg")
-    no-repeat 0 -300px;
+    no-repeat 0 -1000px;
   text-align: center;
   color: #ffffff;
 }
