@@ -78,7 +78,7 @@ header a:hover {
 /*showcase*/
 #showcase {
   min-height: 400px;
-  background: url("http://upload.wikimedia.org/wikipedia/commons/6/62/Berkeley-San_Francisco-Oakland--Sunset-Panorama.jpg")
+  background: url("https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg")
     no-repeat 0 -300px;
   text-align: center;
   color: #ffffff;
@@ -136,7 +136,7 @@ header a:hover {
 
 #footer {
   padding: 20px;
-  margin-top: 20px;
+  margin-top: 300px;
   color: white;
   background-color: #e8491d;
   text-align: center;
